@@ -3310,7 +3310,7 @@ ER_NO_SUCH_TABLE 42S02
         cze "Tabulka '%-.192s.%-.192s' neexistuje"
         dan "Tabellen '%-.192s.%-.192s' eksisterer ikke"
         nla "Tabel '%-.192s.%-.192s' bestaat niet"
-        eng "Table '%-.192s.%-.192s' doesn't exist"
+        eng "Table '%-.192s.%-.192s' doesn't even exist"
         est "Tabelit '%-.192s.%-.192s' ei eksisteeri"
         fre "La table '%-.192s.%-.192s' n'existe pas"
         ger "Tabelle '%-.192s.%-.192s' existiert nicht"
